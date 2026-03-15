@@ -1,0 +1,40 @@
+[00:01:57] [Server thread/INFO]: Sicxtino has completed the challenge [Return to Sender]
+[00:06:37] [Server thread/INFO]: Sicxtino has made the advancement [Those Were the Days]
+[00:06:46] [Server thread/INFO]: owlfab has made the advancement [Those Were the Days]
+[00:07:31] [Server thread/INFO]: owlfab has made the advancement [War Pigs]
+[00:10:10] [Server thread/INFO]: Sicxtino has made the advancement [War Pigs]
+[00:17:07] [Async Chat Thread - #3/INFO]: [Not Secure] <owlfab> 363 78 326
+[00:19:40] [Server thread/INFO]: owlfab has completed the challenge [Return to Sender]
+[00:31:31] [Server thread/INFO]: Sicxtino has made the advancement [A Seedy Place]
+[00:41:23] [Server thread/INFO]: owlfab has made the advancement [Voluntary Exile]
+[00:48:13] [Server thread/INFO]: owlfab has made the advancement [Tactical Fishing]
+[00:48:23] [Server thread/INFO]: Sicxtino has made the advancement [Tactical Fishing]
+[00:51:03] [Server thread/INFO]: Sicxtino issued server command: /msg Sicxtino 5092 ~ 2356
+[00:52:24] [Server thread/INFO]: Villager Villager['Villager'/63759, uuid='71cc496e-0cf5-4bee-aeb7-196c0a9cf976', l='ServerLevel[world]', x=5078.28, y=74.00, z=2308.37, cpos=[317, 144], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[00:56:04] [Server thread/INFO]: Sicxtino has made the advancement [Eye Spy]
+[00:56:16] [Server thread/INFO]: owlfab has made the advancement [Eye Spy]
+[01:01:01] [Server thread/INFO]: owlfab has made the advancement [The End?]
+[01:01:02] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[01:01:02] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[01:01:50] [Server thread/INFO]: Sicxtino has made the advancement [The End?]
+[01:05:07] [Server thread/INFO]: owlfab has made the advancement [Ol' Betsy]
+[01:08:57] [Server thread/INFO]: Sicxtino fell from a high place
+[01:09:12] [Server thread/INFO]: Sicxtino issued server command: /tp 5092 ~ 2356
+[01:09:12] [Server thread/INFO]: [Sicxtino: Teleported Sicxtino to 5092.500000, 71.000000, 2356.500000]
+[01:09:14] [Server thread/INFO]: [Sicxtino: Set own game mode to Spectator Mode]
+[01:09:29] [Server thread/INFO]: [Sicxtino: Set own game mode to Survival Mode]
+[01:10:45] [Server thread/INFO]: owlfab has made the advancement [Free the End]
+[01:11:28] [Server thread/INFO]: Sicxtino has reached the goal [The Next Generation]
+[01:11:40] [Server thread/INFO]: owlfab has reached the goal [The Next Generation]
+[01:12:16] [Server thread/INFO]: Sicxtino has made the advancement [Remote Getaway]
+[01:15:43] [Server thread/INFO]: Sicxtino lost connection: Disconnected
+[01:15:43] [Server thread/INFO]: Sicxtino left the game
+[01:15:44] [User Authenticator #2/INFO]: UUID of player Sicxtino is b202b854-eef7-3a5c-8add-c7111e30f7a1
+[01:15:45] [Server thread/INFO]: Sicxtino joined the game
+[01:15:45] [Server thread/INFO]: Sicxtino[/127.184.226.15:60157] logged in with entity id 69978 at ([world_the_end]-294.35173193817474, 59.0, 1143.5303549933415)
+[01:22:13] [Server thread/INFO]: Sicxtino has made the advancement [The City at the End of the Game]
+[01:23:25] [Server thread/WARN]: Sicxtino moved too quickly! 7.527902603149414,-0.14690589904785156,7.12752628326416
+[01:23:28] [Server thread/INFO]: owlfab lost connection: Disconnected
+[01:23:28] [Server thread/INFO]: owlfab left the game
+[01:24:59] [Server thread/INFO]: Sicxtino lost connection: Disconnected
+[01:24:59] [Server thread/INFO]: Sicxtino left the game
